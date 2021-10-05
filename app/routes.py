@@ -14,7 +14,7 @@ def index():
               {
                    'author': {'username': 'Susan'},
                    'body': 'The Dodgers will beat the Cardinals on wednesday!'
-              {     
+              }     
         
      ]
      #Create fake posts & users
