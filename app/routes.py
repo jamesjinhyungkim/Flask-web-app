@@ -18,5 +18,6 @@ def index():
         
      ]
      #Create fake posts & users
-     return render_template('index.html', title='Home', user=user, posts=posts)     
     
+    
+    return render_template('index.html', title='Home', user=user, posts=posts)     
